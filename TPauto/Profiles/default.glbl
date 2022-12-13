@@ -2,6 +2,6 @@
 <GlobalVariableEntities>
    <description></description>
    <name>default</name>
-   <tag></tag>
+   <tag>Profile</tag>
    <defaultProfile>true</defaultProfile>
 </GlobalVariableEntities>
